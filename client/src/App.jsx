@@ -22,7 +22,7 @@ function App() {
       <Toaster   toastOptions={{ duration: 2000 }}
         containerStyle={{
           position: 'fixed',
-           top: '650px',  
+           top: '630px',  
           left: '50%',     
           transform: 'translateX(-50%)', 
           zIndex: 1000,    
