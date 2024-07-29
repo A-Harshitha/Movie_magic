@@ -13,6 +13,10 @@ MovieMagic is a web application that allows users to explore movies based on pop
 - **Favorite List**: Add movies to a personal favorite list and view them anytime.
 - **User Authentication**: Sign up and log in using JWT for personalized movie lists.
 
+## View Live
+
+You can view the live version of MovieMagic at [https://moviemagic-fend.vercel.app/](https://moviemagic-fend.vercel.app/).
+
 ## Installation and Setup
 
 ### Prerequisites
