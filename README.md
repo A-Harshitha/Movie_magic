@@ -37,6 +37,16 @@ You can view the live version of MovieMagic at [https://moviemagic-fend.vercel.a
 - Node.js and npm installed on your machine.
 - MongoDB instance for the database.
 
+### Cloning the Repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/A-Harshitha/Movie_magic
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Movie_magic
+   ```
+
 ### Environment Variables
 Create a `.env` file in the root of your `server` directory and add the following environment variables:
 
@@ -46,7 +56,6 @@ JWT_SECRET=<your-random-secret-key>
 ```
 - **`MONGO_URL`**: Connection string for your MongoDB database.
 - **`JWT_SECRET`**: A random string used as a secret key for signing JWT tokens, which is essential for securely managing user sessions and authentication.
-Sure! Here’s an expanded section on how to set up the `MONGO_URL` for your MovieMagic project.
 
 ### Setting up MongoDB and `MONGO_URL`
 
